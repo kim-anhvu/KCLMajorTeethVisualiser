@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: f7dab9101dbbdb94d8006300a58dc05c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: TopTeeth.001
+    100002: TopTeeth.002
+    100004: TopTeeth.003
+    100006: TopTeeth.004
+    100008: TopTeeth.005
+    100010: TopTeeth.006
+    100012: TopTeeth.007
+    100014: TopTeeth.008
+    100016: TopTeeth.009
+    100018: TopTeeth.010
+    100020: TopTeeth.011
+    100022: TopTeeth.012
+    100024: TopTeeth.013
+    100026: TopTeeth.014
+    100028: TopTeeth.015
+    100030: TopTeeth.016
+    100032: //RootNode
+    400000: TopTeeth.001
+    400002: TopTeeth.002
+    400004: TopTeeth.003
+    400006: TopTeeth.004
+    400008: TopTeeth.005
+    400010: TopTeeth.006
+    400012: TopTeeth.007
+    400014: TopTeeth.008
+    400016: TopTeeth.009
+    400018: TopTeeth.010
+    400020: TopTeeth.011
+    400022: TopTeeth.012
+    400024: TopTeeth.013
+    400026: TopTeeth.014
+    400028: TopTeeth.015
+    400030: TopTeeth.016
+    400032: //RootNode
+    2100000: Material.001
+    2100002: TopTeethMat16
+    2100004: TopTeethMat15
+    2100006: TopTeethMat14
+    2100008: TopTeethMat13
+    2100010: TopTeethMat12
+    2100012: TopTeethMat11
+    2100014: TopTeethMat10
+    2100016: TopTeethMat9
+    2100018: TopTeethMat8
+    2100020: TopTeethMat7
+    2100022: TopTeethMat6
+    2100024: TopTeethMat5
+    2100026: TopTeethMat4
+    2100028: TopTeethMat3
+    2100030: TopToothMat2
+    2100032: TopTeethMat1
+    2300000: TopTeeth.001
+    2300002: TopTeeth.002
+    2300004: TopTeeth.003
+    2300006: TopTeeth.004
+    2300008: TopTeeth.005
+    2300010: TopTeeth.006
+    2300012: TopTeeth.007
+    2300014: TopTeeth.008
+    2300016: TopTeeth.009
+    2300018: TopTeeth.010
+    2300020: TopTeeth.011
+    2300022: TopTeeth.012
+    2300024: TopTeeth.013
+    2300026: TopTeeth.014
+    2300028: TopTeeth.015
+    2300030: TopTeeth.016
+    2300032: //RootNode
+    3300000: TopTeeth.001
+    3300002: TopTeeth.002
+    3300004: TopTeeth.003
+    3300006: TopTeeth.004
+    3300008: TopTeeth.005
+    3300010: TopTeeth.006
+    3300012: TopTeeth.007
+    3300014: TopTeeth.008
+    3300016: TopTeeth.009
+    3300018: TopTeeth.010
+    3300020: TopTeeth.011
+    3300022: TopTeeth.012
+    3300024: TopTeeth.013
+    3300026: TopTeeth.014
+    3300028: TopTeeth.015
+    3300030: TopTeeth.016
+    3300032: //RootNode
+    4300000: TopGum
+    4300002: TopTeeth.016
+    4300004: TopTeeth.015
+    4300006: TopTeeth.014
+    4300008: TopTeeth.013
+    4300010: TopTeeth.012
+    4300012: TopTeeth.011
+    4300014: TopTeeth.010
+    4300016: TopTeeth.009
+    4300018: TopTeeth.008
+    4300020: TopTeeth.007
+    4300022: TopTeeth.006
+    4300024: TopTeeth.005
+    4300026: TopTeeth.004
+    4300028: TopTeeth.003
+    4300030: TopTeeth.002
+    4300032: TopTeeth.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

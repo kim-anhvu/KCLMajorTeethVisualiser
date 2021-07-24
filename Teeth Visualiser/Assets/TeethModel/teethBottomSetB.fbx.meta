@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: c0b3712f76876488db61b062ffe08e78
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BottomTeethB.001
+    100002: BottomTeethB.002
+    100004: BottomTeethB.003
+    100006: BottomTeethB.004
+    100008: BottomTeethB.005
+    100010: BottomTeethB.006
+    100012: BottomTeethB.007
+    100014: BottomTeethB.008
+    100016: BottomTeethB.009
+    100018: BottomTeethB.010
+    100020: BottomTeethB.011
+    100022: BottomTeethB.012
+    100024: BottomTeethB.013
+    100026: BottomTeethB.014
+    100028: BottomTeethB.015
+    100030: BottomTeethB.016
+    100032: //RootNode
+    400000: BottomTeethB.001
+    400002: BottomTeethB.002
+    400004: BottomTeethB.003
+    400006: BottomTeethB.004
+    400008: BottomTeethB.005
+    400010: BottomTeethB.006
+    400012: BottomTeethB.007
+    400014: BottomTeethB.008
+    400016: BottomTeethB.009
+    400018: BottomTeethB.010
+    400020: BottomTeethB.011
+    400022: BottomTeethB.012
+    400024: BottomTeethB.013
+    400026: BottomTeethB.014
+    400028: BottomTeethB.015
+    400030: BottomTeethB.016
+    400032: //RootNode
+    2100000: MaterialB.001
+    2100002: BotToothMatB16
+    2100004: BotToothMatB15
+    2100006: BotToothMatB14
+    2100008: BotToothMatB13
+    2100010: BotToothMatB12
+    2100012: BotToothMatB11
+    2100014: BotToothMatB10
+    2100016: BotToothMatB9
+    2100018: BotToothMatB8
+    2100020: BotToothMatB7
+    2100022: BotToothMatB6
+    2100024: BotToothMatB5
+    2100026: BotToothMatB4
+    2100028: BotToothMatB3
+    2100030: BotToothMatB2
+    2100032: BotToothMatB1
+    2300000: BottomTeethB.001
+    2300002: BottomTeethB.002
+    2300004: BottomTeethB.003
+    2300006: BottomTeethB.004
+    2300008: BottomTeethB.005
+    2300010: BottomTeethB.006
+    2300012: BottomTeethB.007
+    2300014: BottomTeethB.008
+    2300016: BottomTeethB.009
+    2300018: BottomTeethB.010
+    2300020: BottomTeethB.011
+    2300022: BottomTeethB.012
+    2300024: BottomTeethB.013
+    2300026: BottomTeethB.014
+    2300028: BottomTeethB.015
+    2300030: BottomTeethB.016
+    2300032: //RootNode
+    3300000: BottomTeethB.001
+    3300002: BottomTeethB.002
+    3300004: BottomTeethB.003
+    3300006: BottomTeethB.004
+    3300008: BottomTeethB.005
+    3300010: BottomTeethB.006
+    3300012: BottomTeethB.007
+    3300014: BottomTeethB.008
+    3300016: BottomTeethB.009
+    3300018: BottomTeethB.010
+    3300020: BottomTeethB.011
+    3300022: BottomTeethB.012
+    3300024: BottomTeethB.013
+    3300026: BottomTeethB.014
+    3300028: BottomTeethB.015
+    3300030: BottomTeethB.016
+    3300032: //RootNode
+    4300000: BottomGumB
+    4300002: BottomTeethB.016
+    4300004: BottomTeethB.015
+    4300006: BottomTeethB.014
+    4300008: BottomTeethB.013
+    4300010: BottomTeethB.012
+    4300012: BottomTeethB.011
+    4300014: BottomTeethB.010
+    4300016: BottomTeethB.009
+    4300018: BottomTeethB.008
+    4300020: BottomTeethB.007
+    4300022: BottomTeethB.006
+    4300024: BottomTeethB.005
+    4300026: BottomTeethB.004
+    4300028: BottomTeethB.003
+    4300030: BottomTeethB.002
+    4300032: BottomTeethB.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
